@@ -1,0 +1,21 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Prostate Cancer Cohort Consortium &centerdot; PC3"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - news.qmd
+      - contact.qmd
+
+format:
+  html:
+    theme: simplex
+    css: styles.css
+    toc: true
+
+
+

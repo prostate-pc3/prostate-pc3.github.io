@@ -1,0 +1,54 @@
+---
+title: "Contact"
+---
+
+PC3 is an initiative that lives from the commitment of its member cohorts, is hosted by the NCI Cohort Consortium, and is spearheaded by its leadership team. PC3 was founded by Drs. Eric Jacobs, Lorelei Mucci, Elizabeth Platz, and Michael Cook in 2017.
+
+## Leadership Team
+
+:::: {layout-ncol=2}
+
+::: {#first-column}
+![](images/darst.jpg){width=150}
+
+**Burcu F. Darst, PhD**
+
+Fred Hutchinson Cancer Center
+
+bdarst@fredhutch.org
+
+![](images/joshu.jpg){width=150}
+
+**Corinne E. Joshu, PhD MPH**
+
+Johns Hopkins Bloomberg School of Public Health
+
+cjoshu1@jhu.edu
+
+:::
+
+::: {#second-column}
+
+![](images/hurwitz.jpg){width=150}
+
+**Lauren M. Hurwitz, PhD MHS**
+
+National Cancer Institute
+
+lauren.hurwitz@nih.gov
+
+
+![](images/stopsack.jpg){width=150}
+
+**Konrad H. Stopsack, MD MPH**
+
+Massachusetts General Hospital
+
+kstopsack@mgh.harvard.edu
+:::
+
+::::
+
+## Links
+
+[NCI Cohort Consortium](https://epi.grants.cancer.gov/cohort-consortium/)
