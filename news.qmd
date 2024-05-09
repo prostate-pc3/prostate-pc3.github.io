@@ -2,9 +2,14 @@
 title: "News"
 ---
 
+### This year's annual PC3 meeting: Save the date (May 2024)
+
+The Annual Meeting of PC3 will be held as part of the NCI Cohort Consortium meeting on **Thursday, November 14, 2024 at 1:00-2:00 pm ET**. The meeting will be in person at the NCI campus in Rockville, MD, with a virtual dial-in option. Registration is through the [NCI Cohort Consortium](https://epi.grants.cancer.gov/cohort-consortium/). Please reach out to PC3 leadership with any updates or suggestions for the agenda.
+
+
 ### Impact of the PC3 definition of aggressive prostate cancer (April 2024)
 
-The PC3 consensus definition of aggressive prostate cancer (also see [News from February 2023](https://prostate-pc3.github.io/news.html#pc3-definition-of-aggressive-prostate-cancer-validated-february-2023)) has seen rapid uptake in etiologic epidemiology studies. Several dozens studies have employed this definition. As intended, while many studies have used a different primary outcome definition, they provide results for the [PC3 definition](https://pubmed.ncbi.nlm.nih.gov/33010161/) of stage T4 or N1 or M1 or Gleason score of 8 or greater prostate cancer in supplementary results to facilitate a comparison of results across studies. See a [reverse citation search on Google Scholar](https://scholar.google.com/scholar?hl=en&num=20&as_sdt=40000005&sciodt=0,22&cites=17869250161636967761&scipsc=&q=&scisbd=1) for a current listing of studies.
+The PC3 consensus definition of aggressive prostate cancer (also see [News from February 2023](https://prostate-pc3.github.io/news.html#pc3-definition-of-aggressive-prostate-cancer-validated-february-2023)) has seen rapid uptake in etiologic epidemiology studies. Several dozen studies have employed this definition. As intended, while many studies have used a different primary outcome definition, they provide results for the [PC3 definition](https://pubmed.ncbi.nlm.nih.gov/33010161/) of stage T4 or N1 or M1 or Gleason score of 8 or greater prostate cancer in supplementary results to facilitate a comparison of results across studies. See a [reverse citation search on Google Scholar](https://scholar.google.com/scholar?hl=en&num=20&as_sdt=40000005&sciodt=0,22&cites=17869250161636967761&scipsc=&q=&scisbd=1) for a current listing of studies.
 
 
 ### From the Annual Meeting (October 2023)
