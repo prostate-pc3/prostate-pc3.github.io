@@ -6,20 +6,24 @@ PC3 is an initiative that lives from the commitment of its member cohorts, is ho
 
 ## Leadership Team
 
-:::: {layout-ncol=2}
+:::: {layout-ncol=3}
 
 ::: {#first-column}
 ![](images/darst.jpg){width=150}
 
-**Burcu F. Darst, PhD**
+**Burcu F. Darst**, PhD
 
 Fred Hutchinson Cancer Center
 
 bdarst@fredhutch.org
 
+:::
+
+::: {#second-column}
+
 ![](images/joshu.jpg){width=150}
 
-**Corinne E. Joshu, PhD MPH**
+**Corinne E. Joshu**, PhD MPH
 
 Johns Hopkins Bloomberg School of Public Health
 
@@ -27,24 +31,16 @@ cjoshu1@jhu.edu
 
 :::
 
-::: {#second-column}
-
-![](images/hurwitz.jpg){width=150}
-
-**Lauren M. Hurwitz, PhD MHS**
-
-National Cancer Institute
-
-lauren.hurwitz@nih.gov
+::: {#third-column}
 
 
 ![](images/stopsack.jpg){width=150}
 
-**Konrad H. Stopsack, MD MPH**
+**Konrad H. Stopsack**, MD MPH
 
 Massachusetts General Hospital
 
-kstopsack@mgh.harvard.edu
+stopsack@post.harvard.edu
 :::
 
 ::::
