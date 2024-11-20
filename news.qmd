@@ -2,6 +2,13 @@
 title: "News"
 ---
 
+### From the Annual Meeting (November 2024)
+
+![Attendees of the hybrid 2024 PC3 Annual Meeting.](images/annual_meeting_2024.jpg)
+
+Assembled at the NCI Shady Grove and online, PC3 members discussed updates and new initiates within PC3 during the last year, and the PC3 leadership team gave updates about funding strategies. [Lorelei Mucci](https://www.hsph.harvard.edu/profile/lorelei-ann-mucci/) (Harvard T.H. Chan School of Public Health) presented about [IRONMAN](https://pubmed.ncbi.nlm.nih.gov/36332173/), a new international cohort of men with advanced prostate cancer, and [Kaitlyn Tsuruda](https://www.kreftregisteret.no/en/General/About-the-Cancer-Registry-of-Norway/ansatte_kreftregisteret/Kaitlyn-Tsuruda/) (Cancer Registry of Norway) presented new data on capturing aggressive prostate cancer. Attendees shared exciting ideas for future studies that PC3 will be the platform for.
+
+
 ### The PC3 Annual Meeting is upcoming (September 2024)
 
 The Annual Meeting of PC3 is confirmed for **Thursday, November 14, 2024 at 1:00-2:00 pm ET**. If you have not received an invitation with an RSVP link, please reach out to the [leadership team](contact.qmd). Please register by October 27, 2024. Suggestions for the agenda are welcome. Note that a [separate registration](https://events.cancer.gov/egrp/cohortconsortium/registration) is required for the NCI Cohort Consortium meeting.
@@ -21,7 +28,7 @@ The PC3 consensus definition of aggressive prostate cancer (also see [News from 
 
 ![In-person attendees of the hybrid 2023 PC3 Annual Meeting.](images/annual_meeting_2023.jpg)
 
-The annual meeting brought together in-person attendees at the NCI in Rockville, MD, plus dozens of investigators attending virtually to share updates about recent developments in PC3 and and grant strategies. [Ruth Travis](https://www.ndph.ox.ac.uk/team/ruth-travis) presented updates on proteins, metabolites, and prostate cancer risk. The attendees also discussed how PC3 can successfully further facilitate collaboration.
+The annual meeting brought together in-person attendees at the NCI in Rockville, MD, plus dozens of investigators attending virtually to share updates about recent developments in PC3 and and grant strategies. [Ruth Travis](https://www.ndph.ox.ac.uk/team/ruth-travis) (University of Oxford) presented updates on proteins, metabolites, and prostate cancer risk. The attendees also discussed how PC3 can successfully further facilitate collaboration.
 
 
 ### Invitation to the Annual Meeting (October 2023)
