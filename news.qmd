@@ -2,6 +2,11 @@
 title: "News"
 ---
 
+### Welcome to the PC3 Annual Meeting (September 2025)
+
+The 2025 Annual Meeting of PC3 is taking place in person at the NCI Shady Grove in Rockville, MD, with a WebEx dial-in option on **Wednesday, November 5, 2025 at 9:00-11:00 am ET**. If you have not received an invitation with an RSVP link, please reach out to the [leadership team](contact.qmd). Please register by October 15, 2025. This year, our meeting has a two-hour time slot, instead of one hour as in previous years, to review the developments in PC3 over the past year and to allow for more in-depth conversations and more interaction. Suggestions for the agenda are welcome. An [additional registration](https://events.cancer.gov/egrp/cohortconsortium/registration) is required for the NCI Cohort Consortium meeting.
+
+
 ### From the Annual Meeting (November 2024)
 
 ![Attendees of the hybrid 2024 PC3 Annual Meeting.](images/annual_meeting_2024.jpg)
