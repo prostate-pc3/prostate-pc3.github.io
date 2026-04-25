@@ -2,6 +2,13 @@
 title: "News"
 ---
 
+### PC3 definition of aggressive prostate cancer adapted for missing data
+
+The PC3 consensus definition of aggressive prostate cancer (also see [News from April 2024](https://prostate-pc3.github.io/news.html#impact-of-the-pc3-definition-of-aggressive-prostate-cancer-april-2024)) has been applied in numerous studies.
+For many patients with prostate cancer in cohort studies and in registries, tumor features defining aggressiveness are necessarily incompletely captured.
+Researchers from the Norwegian Janus Serum Bank cohort have now successfully applied and validated clinical assumptions that can help make substantially more cases classifiable as aggressive or non-aggressive ([Tsuruda et al. Am J Epidemiol 2026](https://doi.org/10.1093/aje/kwag083)).
+
+
 ### Rescheduled 2025 PC3 Annual Meeting (January 2026)
 
 Due to the cancellation of the NCI Cohort Consortium annual meeting, the hybrid PC3 annual meeting scheduled for November 2025 was cancelled. An online-only replacement meeting for this 2025 annual meeting is scheduled for **Wednesday, February 25, 2026 at 11:00 am to 12:00 noon ET**. Please reach out to the [leadership team](contact.qmd) if you would like to attend and did not receive an invitation.
