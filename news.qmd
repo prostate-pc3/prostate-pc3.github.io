@@ -2,7 +2,7 @@
 title: "News"
 ---
 
-### PC3 definition of aggressive prostate cancer adapted for missing data
+### PC3 definition of aggressive prostate cancer adapted for missing data (April 2026)
 
 The PC3 consensus definition of aggressive prostate cancer (also see [News from April 2024](https://prostate-pc3.github.io/news.html#impact-of-the-pc3-definition-of-aggressive-prostate-cancer-april-2024)) has been applied in numerous studies.
 For many patients with prostate cancer in cohort studies and in registries, tumor features defining aggressiveness are necessarily incompletely captured.
