@@ -2,6 +2,11 @@
 title: "News"
 ---
 
+### Welcome to the PC3 Annual Meeting (June 2026)
+
+The 2026 Annual Meeting of PC3 is taking place in person at the NCI Shady Grove in Rockville, MD, with a hybrid dial-in option on **Wednesday, September 23, 2026 at 12:30-2:30 am ET**. If you have not received an invitation, please reach out to the [leadership team](contact.qmd). Please register using the [Cohort Consortium form](https://events.cancer.gov/egrp/cohortconsortium/registration) by August 21, 2026. The meeting will serve to share updates about PC3, preliminary data, and solidified plans for the future. Suggestions for the agenda are most welcome.
+
+
 ### PC3 definition of aggressive prostate cancer adapted for missing data (April 2026)
 
 The PC3 consensus definition of aggressive prostate cancer (also see [News from April 2024](https://prostate-pc3.github.io/news.html#impact-of-the-pc3-definition-of-aggressive-prostate-cancer-april-2024)) has been applied in numerous studies.
